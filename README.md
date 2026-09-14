@@ -6,8 +6,8 @@
 
 | Keterangan | Data |
 |------------|------|
-| **Nama** | *[Isi Nama Lengkap Anda]* |
-| **NIM** | *[Isi NIM Anda]* |
+| **Nama** | *Bunga Zulfa Aqila* |
+| **NIM** | *2509116024* |
 | **Mata Kuliah** | Pemrograman Berorientasi Objek |
 | **Tahun** | 2026 |
 
