@@ -232,94 +232,42 @@ public Acara cariAcaraById(int id) {
 
 ### 1. Tampilan Menu Utama
 
-```
-SISTEM PENDAFTARAN ACARA SEMINAR
-MANAJEMEN SEMINAR 2026
 
-MENU UTAMA
-1. Tambah Seminar
-2. Lihat Daftar Seminar
-3. Cari Seminar
-4. Update Seminar
-5. Hapus Seminar
-6. Daftar Peserta Seminar
-7. Keluar
-Pilih menu (1-7):
-```
 
-![Screenshot Menu Utama](screenshots/menu-utama.png)
+<img width="307" height="206" alt="Screenshot 2026-09-15 233532" src="https://github.com/user-attachments/assets/db1f47af-c211-4282-b7ee-83f8699a8f74" />
 
 ---
 
 ### 2. Tampilan Daftar Acara (dengan Jenis Acara)
 
-```
-=== DAFTAR ACARA ===
-Total Acara: 3
 
-ID: 1 | Jenis: Seminar | Nama: Inovasi AI dalam Pendidikan | Pemateri: Dr. Budi Santoso | Tanggal: 2026-10-15 | Kuota: 50 | Terdaftar: 0 | Sisa: 50
----------------------------
-ID: 2 | Jenis: Seminar | Nama: Cyber Security 2026 | Pemateri: Prof. Dewi Lestari | Tanggal: 2026-10-20 | Kuota: 30 | Terdaftar: 0 | Sisa: 30
----------------------------
-ID: 3 | Jenis: Seminar | Nama: Digital Marketing Strategy | Pemateri: Andi Wijaya, S.Kom | Tanggal: 2026-10-25 | Kuota: 40 | Terdaftar: 0 | Sisa: 40
----------------------------
-```
 
-![Screenshot Daftar Acara](screenshots/daftar-acara.png)
+<img width="1067" height="152" alt="Screenshot 2026-09-15 233717" src="https://github.com/user-attachments/assets/b02002c8-12f7-422f-a4c0-a3dfff0b31b7" />
+
 
 ---
 
 ### 3. Tampilan Pendaftaran Peserta
 
-```
-=== PENDAFTARAN PESERTA ACARA ===
-Masukkan ID Acara yang ingin diikuti: 1
-Masukkan Nama Peserta: Rina Marlina
 
-✓ Pendaftaran berhasil!
-Nama Peserta: Rina Marlina
-Acara: Inovasi AI dalam Pendidikan
-Jenis: Seminar
-Sisa Kuota: 49
-```
+<img width="314" height="147" alt="Screenshot 2026-09-15 233848" src="https://github.com/user-attachments/assets/e7037cb2-6109-4bbf-b527-4c57bc56439c" />
 
-![Screenshot Pendaftaran Peserta](screenshots/pendaftaran-peserta.png)
 
 ---
 
 ### 4. Tampilan Update Acara
 
-```
-=== UPDATE ACARA ===
-Masukkan ID Acara yang akan diupdate: 2
 
-Data saat ini:
-ID: 2 | Jenis: Seminar | Nama: Cyber Security 2026 | Pemateri: Prof. Dewi Lestari | Tanggal: 2026-10-20 | Kuota: 30 | Terdaftar: 0 | Sisa: 30
+<img width="1005" height="205" alt="Screenshot 2026-09-15 234131" src="https://github.com/user-attachments/assets/c6652e02-85ac-4819-80f1-536e28952153" />
 
-Masukkan data baru (kosongkan jika tidak ingin mengubah):
-Nama Acara [Cyber Security 2026]: Cyber Security & Ethical Hacking
-Nama Pemateri [Prof. Dewi Lestari]:
-Tanggal [2026-10-20]:
-Kuota [30]: 35
-
-✓ Acara berhasil diupdate!
-```
-
-![Screenshot Update Acara](screenshots/update-acara.png)
 
 ---
 
 ### 5. Tampilan Hapus Acara
 
-```
-=== HAPUS ACARA ===
-Masukkan ID Acara yang akan dihapus: 3
-Apakah Anda yakin ingin menghapus acara 'Digital Marketing Strategy'? (y/n): y
 
-✓ Acara berhasil dihapus!
-```
+<img width="571" height="70" alt="Screenshot 2026-09-15 234228" src="https://github.com/user-attachments/assets/567f7fd1-b03a-455d-a850-8ccff8ffc7a8" />
 
-![Screenshot Hapus Acara](screenshots/hapus-acara.png)
 
 ---
 
